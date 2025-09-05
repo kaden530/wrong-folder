@@ -11,9 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaden530/wrong-folder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kaden530/wrong-folder/issues"
+  },
+  "homepage": "https://github.com/kaden530/wrong-folder#readme"
 }
